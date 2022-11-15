@@ -2,12 +2,14 @@ package service
 
 import (
 	"fmt"
-	log "github.com/sirupsen/logrus"
-	"github.com/trustwallet/assets-go-libs/file"
-	"github.com/trustwallet/go-primitives/coin"
 	"os"
 	"path/filepath"
 	"strings"
+
+	"github.com/trustwallet/assets-go-libs/file"
+	"github.com/trustwallet/go-primitives/coin"
+
+	log "github.com/sirupsen/logrus"
 )
 
 const stagingDirectory = "staging/assets"
@@ -36,6 +38,7 @@ func (s *Service) CopyLogoToStagingFolderForChain(f *file.AssetFile) error {
 
 		if _, err := os.Stat(logoPath); err != nil {
 			// Logo doesn't exist for this asset so we move on
+			// nolint: nilerr
 			return nil
 		}
 

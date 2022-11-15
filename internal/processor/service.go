@@ -3,6 +3,7 @@ package processor
 import (
 	assetsmanager "github.com/trustwallet/assets-go-libs/client/assets-manager"
 	"github.com/trustwallet/assets-go-libs/file"
+
 	"github.com/trustwallet/assets/internal/config"
 )
 
