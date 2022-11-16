@@ -24,5 +24,6 @@ jobs:
       - name: git merge
         run: |
           git remote add root git@github.com:trustwallet/assets.git
+          git fetch root
           git merge root/master -s recursive -X ours
           git push -u origin master
