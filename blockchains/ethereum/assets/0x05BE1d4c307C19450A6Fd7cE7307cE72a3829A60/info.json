@@ -1,0 +1,36 @@
+{
+    "name": "International Meme Fund",
+    "type": "ERC20",
+    "symbol": "IMF",
+    "decimals": 18,
+    "website": "https://imf.bz",
+    "description": "MEME ON A MISSION",
+    "explorer": "https://etherscan.io/token/0x05BE1d4c307C19450A6Fd7cE7307cE72a3829A60",
+    "status": "active",
+    "id": "0x05BE1d4c307C19450A6Fd7cE7307cE72a3829A60",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/intlmemefund"
+        },
+        {
+            "name": "warpcast",
+            "url": "https://warpcast.com/~/channel/imf"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/intlmemefund"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/international-meme-fund/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/international-meme-fund"
+        }
+    ],
+    "tags": [
+        "memes"
+    ]
+} 
