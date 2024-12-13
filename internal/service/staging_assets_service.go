@@ -45,6 +45,11 @@ func NewStagingAssetsService(fs *file.Service, rs *report.Service, paths []strin
 			coin.SMARTCHAIN: true,
 			coin.BASE:       true,
 			coin.AVALANCHEC: true,
+			coin.BLAST:      true,
+			coin.XDAI:       true,
+			coin.ZKSYNC:     true,
+			coin.LINEA:      true,
+			coin.SCROLL:     true,
 		},
 	}
 }
