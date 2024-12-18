@@ -1,0 +1,17 @@
+{
+    "name": "Ink Sepolia",
+    "website": "https://inkonchain.com",
+    "description": "Ink Sepolia is a Layer 2 blockchain built on Optimism's Superchain by Kraken, offering fast, secure, and low-cost transactions to empower DeFi builders and users.",
+    "explorer": "https://explorer-sepolia.inkonchain.com/",
+    "symbol": "ETH",
+    "rpc_url": "https://rpc-gel-sepolia.inkonchain.com",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/community/search/top/ink/"
+        }
+    ]
+}
