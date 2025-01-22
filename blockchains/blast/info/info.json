@@ -7,5 +7,15 @@
     "rpc_url": "https://blast.blockpi.network/v1/rpc/public",
     "type": "coin",
     "decimals": 18,
-    "status": "active"
+    "status": "active",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/Blast_L2"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/blast-l2"
+        }
+    ]
 }
