@@ -10,16 +10,8 @@
     "id": "0x163f8C2467924be0ae7B5347228CABF260318753",
     "links": [
         {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/worldcoin-org"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/worldcoin"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/worldcoin"
+            "name": "x",
+            "url": "https://x.com/worldcoin"
         },
         {
             "name": "github",

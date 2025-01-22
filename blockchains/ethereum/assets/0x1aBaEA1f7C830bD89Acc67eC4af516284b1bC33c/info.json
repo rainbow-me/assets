@@ -13,6 +13,10 @@
     ],
     "links": [
         {
+            "name": "x",
+            "url": "https://x.com/circle"
+        },
+        {
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/euro-coin/"
         },
