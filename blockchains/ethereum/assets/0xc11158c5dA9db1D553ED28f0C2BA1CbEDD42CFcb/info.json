@@ -1,0 +1,41 @@
+{
+    "name": "Wrapped PAW",
+    "website": "https://www.pawchain.net",
+    "description": "PAW Chain launched the first Layer 3 blockchain, enhancing scalability and inter-chain operability. Its roadmap includes a DEX, merchant services, and a DAO, all optimized for high-volume, low-cost transactions with smart contracts and EVM compatibility, underpinned by community-driven governance.",
+    "explorer": "https://etherscan.io/token/0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
+    "type": "ERC20",
+    "symbol": "wPAW",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
+    "tags": [
+        "defi",
+        "governance"
+    ],
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/pawecosystem"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/pawchain"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/pawswap/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/paw"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/pawecosystem"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://pawchain.net/docs"
+        }
+    ]
+}
