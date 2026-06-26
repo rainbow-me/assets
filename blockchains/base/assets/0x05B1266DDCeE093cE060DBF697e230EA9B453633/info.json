@@ -1,0 +1,24 @@
+{
+    "name": "ReplyCorp",
+    "website": "https://replycorp.io",
+    "description": "ReplyCorp is a performance-based social referral platform that attributes sales to organic social media posts. The REPLY token powers platform access through a buy-and-burn credit system and earns holders a share of protocol trading fees via ReplyPool staking.",
+    "explorer": "https://basescan.org/token/0x05B1266DDCeE093cE060DBF697e230EA9B453633",
+    "type": "BASE",
+    "symbol": "REPLY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x05B1266DDCeE093cE060DBF697e230EA9B453633",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/replycorp"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.replycorp.io"
+        }
+    ]
+}
