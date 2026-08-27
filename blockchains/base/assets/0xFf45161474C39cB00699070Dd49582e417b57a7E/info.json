@@ -1,0 +1,11 @@
+{
+  "name": "Mint Token",
+  "symbol": "MT",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Mint Club enables bonding curve-backed child tokens and NFTs from any ERC20, with automated liquidity across EVM chains. It also offers Airdrop and Lock-up tools for growth.",
+  "website": "https://mint.club",
+  "explorer": "https://basescan.org/token/0xFf45161474C39cB00699070Dd49582e417b57a7E",
+  "status": "active",
+  "id": "0xFf45161474C39cB00699070Dd49582e417b57a7E"
+}
