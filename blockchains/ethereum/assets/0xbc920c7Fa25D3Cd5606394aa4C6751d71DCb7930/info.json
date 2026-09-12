@@ -1,0 +1,11 @@
+{
+    "name": "K9",
+    "website": "https://dex.clutch.market",
+    "description": "K9 is the AMM token of the Clutch Puppies DeFi ecosystem.",
+    "explorer": "https://etherscan.io/token/0xbc920c7Fa25D3Cd5606394aa4C6751d71DCb7930",
+    "type": "ERC20",
+    "symbol": "K9",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbc920c7Fa25D3Cd5606394aa4C6751d71DCb7930"
+}
