@@ -1,0 +1,11 @@
+{
+  "name": "nxs1000free.io",
+  "type": "POLYGON",
+  "symbol": "NXS",
+  "decimals": 18,
+  "website": "https://nxs1000free.io",
+  "description": "Community utility token on Polygon Mainnet. Fixed 1 billion supply, verified contracts, no mint. Users opt in on the official website to claim NXS.",
+  "explorer": "https://polygonscan.com/token/0xF40F01805aDbD975be1477253042A2eF1fF39583",
+  "status": "active",
+  "id": "0xF40F01805aDbD975be1477253042A2eF1fF39583"
+}
