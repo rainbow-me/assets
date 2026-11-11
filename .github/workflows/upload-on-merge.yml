@@ -29,9 +29,10 @@ jobs:
           cp -r exchanges staging/exchanges
 
       - name: Install Cloudinary CLI
+        # pipx ships with GitHub-hosted runner images. Installing it with apt
+        # pulls ~36 packages from the image's stale apt index and 404s.
         run: |
-          sudo apt install pipx
-          pipx install cloudinary-cli
+          pipx install cloudinary-cli==1.18.0
           cld --version
 
       - name: Upload assets to Cloudinary
