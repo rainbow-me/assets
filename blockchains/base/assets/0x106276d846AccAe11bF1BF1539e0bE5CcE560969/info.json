@@ -1,0 +1,25 @@
+{
+    "name": "Based Labubu",
+    "symbol": "LABUBU",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "Based Labubu is a playful memecoin created by fans of Labubu for the crypto community to have fun!",
+    "website": "https://based-labubu.vercel.app/",
+    "explorer": "https://basescan.org/token/0x106276d846AccAe11bF1BF1539e0bE5CcE560969",
+    "status": "active",
+    "id": "0x106276d846AccAe11bF1BF1539e0bE5CcE560969",
+    "links": [
+      {
+        "name": "x",
+        "url": "https://x.com/Labubu_BasedCTO"
+      },
+      {
+        "name": "geckoterminal",
+        "url": "https://www.geckoterminal.com/base/pools/0x570952b84f56ac45c7645d1263269d2710d87690"
+      },
+      {
+        "name": "telegram",
+        "url" : "https://t.me/based_labubu"
+      }
+    ]
+  }
