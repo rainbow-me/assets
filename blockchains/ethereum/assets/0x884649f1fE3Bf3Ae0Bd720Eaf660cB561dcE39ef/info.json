@@ -1,0 +1,11 @@
+{
+    "name": "World Pup Coin",
+    "website": "https://pupcup.clutch.market/",
+    "description": "PUPCUP is the community meme token of the Clutch Puppies DeFi ecosystem.",
+    "explorer": "https://etherscan.io/token/0x884649f1fE3Bf3Ae0Bd720Eaf660cB561dcE39ef",
+    "type": "ERC20",
+    "symbol": "PUPCUP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x884649f1fE3Bf3Ae0Bd720Eaf660cB561dcE39ef"
+}
