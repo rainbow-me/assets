@@ -1,0 +1,25 @@
+{
+    "name": "aeon",
+    "website": "https://www.aeon.fun",
+    "description": "Multiply yourself ⭐ Give every idea its own swarm, 24/7. Outwork any company.",
+    "explorer": "https://basescan.org/token/0xBf8E8f0e8866a7052F948C16508644347c57aba3",
+    "type": "BASE",
+    "symbol": "AEON",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xBf8E8f0e8866a7052F948C16508644347c57aba3",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/aeonframework"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/aeonfun/aeon"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/aeon_agent"
+        }
+    ]
+}
